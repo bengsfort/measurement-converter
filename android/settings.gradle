@@ -1,0 +1,3 @@
+rootProject.name = 'MeasuringSystemCalculator'
+
+include ':app'
